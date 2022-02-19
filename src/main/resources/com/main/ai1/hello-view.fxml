@@ -6,7 +6,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.paint.*?>
 
-<GridPane alignment="center" hgap="10" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1080.0" prefWidth="1920.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.main.ai1.HelloController">
+<GridPane alignment="center" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1080.0" prefWidth="1920.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.main.ai1.HelloController">
     <columnConstraints>
         <ColumnConstraints />
     </columnConstraints>
@@ -14,7 +14,7 @@
         <RowConstraints />
     </rowConstraints>
     <children>
-        <TabPane maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="1080.0" prefWidth="1920.0" tabClosingPolicy="ALL_TABS">
+        <TabPane maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="1070.0" prefWidth="1920.0" tabClosingPolicy="ALL_TABS">
             <tabs>
                 <Tab text="Student Groups">
                     <content>
@@ -41,12 +41,12 @@
                     <content>
                         <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" style="-fx-background-color: #919191;">
                             <children>
-                                <TableView fx:id="Projectstudent" layoutX="14.0" layoutY="23.0" prefHeight="1080.0" prefWidth="1920.0" style="-fx-background-radius: 30; -fx-background-color: #676767;">
+                                <TableView fx:id="Projectstudent" layoutX="1.0" prefHeight="878.0" prefWidth="1927.0" style="-fx-background-radius: 30; -fx-background-color: #676767;">
                                     <columns>
                                         <TableColumn fx:id="iiID" prefWidth="87.0" text="ID" />
                                         <TableColumn fx:id="iiSupervisor" prefWidth="183.0" text="Supervisor" />
                                         <TableColumn fx:id="iiTitle" prefWidth="275.0" text="Title" />
-                                        <TableColumn fx:id="iiDescription" minWidth="0.0" prefWidth="868.0" text="Description" />
+                                        <TableColumn fx:id="iiDescription" minWidth="0.0" prefWidth="1381.0" text="Description" />
                                     </columns>
                                 </TableView>
                             </children>
@@ -68,7 +68,7 @@
                                     </columns>
                                 </TableView>
                         <Button fx:id="graph" layoutX="692.0" layoutY="971.0" mnemonicParsing="false" onAction="#GraphClicked" text="Graph" />
-                        <Button fx:id="Figures" layoutX="1070.0" layoutY="971.0" mnemonicParsing="false" onAction="#printFigures" text="Button" />
+                        <Button fx:id="Figures" layoutX="1070.0" layoutY="971.0" mnemonicParsing="false" onAction="#FiguresClicked" text="Figures" />
 
                             </children>
                         </AnchorPane>

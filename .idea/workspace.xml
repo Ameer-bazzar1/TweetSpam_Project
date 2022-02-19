@@ -4,49 +4,145 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="586bae78-aa62-460d-9872-33299701e0eb" name="Changes" comment="Final edit Ameer 1:36 am 11/12/2021">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2021_4_17_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2021_4_17_PM__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2021_4_18_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2021_4_18_PM__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_21__10_53_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_21__10_53_PM__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_21__8_33_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_21__8_33_PM__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_21__9_54_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_21__9_54_AM__Changes_.xml" afterDir="false" />
+    <list default="true" id="dcfcae36-9199-49c1-8c73-88cf52888ad9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2021_4_17_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2021_4_17_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2021_4_18_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2021_4_18_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_21,_10_53_PM_[Changes]/f.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_21,_10_53_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_21,_8_33_PM_[Changes]/f.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_21,_8_33_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_21__10_53_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_21__8_33_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_21,_9_54_AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_21__9_54_AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/ai1/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/ai1/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/ai1/Output.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/ai1/Output.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/ai1/ProjectTableView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/ai1/ProjectTableView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/ai1/StudentTableView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/ai1/StudentTableView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/main/ai1/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/ai1/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/main/ai1/ProjectTableView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/ai1/ProjectTableView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/main/ai1/StudentTableView.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/ai1/StudentTableView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AI1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AI1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2021_4_17_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2021_4_17_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2021_4_18_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_2021_4_18_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_21,_10_53_PM_[Changes]/f.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_21,_10_53_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_21,_8_33_PM_[Changes]/f.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_21,_8_33_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_21__10_53_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/.idea/shelf/Uncommitted_changes_before_Update_at_12_10_21__8_33_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_21,_9_54_AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_21__9_54_AM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/AI1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/AI1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/java/com/main/ai1/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/java/com/main/ai1/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output0.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output1.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output10.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output11.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output12.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output13.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output14.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output15.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output16.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output17.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output18.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output19.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output2.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output20.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output21.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output22.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output23.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output24.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output24.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output25.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output26.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output26.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output27.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output28.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output29.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output3.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output30.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output30.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output31.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output31.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output32.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output33.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output33.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output34.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output34.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output35.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output35.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output36.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output4.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output5.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output6.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output7.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output8.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output9.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/GroubsFigures/Output9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/Output.png" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/images/Output.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/json/Output.json" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/json/Output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/json/newOutput.json" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/src/main/resources/com/main/ai1/json/newOutput.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/target/classes/com/main/ai1/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/target/classes/com/main/ai1/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIProjects1191015/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/AIProjects1191015/target/classes/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/main/ai1/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/main/ai1/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output0.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output10.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output11.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output12.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output13.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output14.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output15.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output16.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output17.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output18.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output19.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output20.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output21.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output22.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output23.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output24.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output24.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output25.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output26.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output26.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output27.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output28.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output29.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output30.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output30.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output31.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output31.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output32.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output33.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output33.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output34.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output34.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output35.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output35.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output36.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output5.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output6.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output7.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output8.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output9.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/GroubsFigures/Output9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/Output.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/images/Output.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/json/Output.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/json/Output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/main/ai1/json/newOutput.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/main/ai1/json/newOutput.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/main/ai1/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/main/ai1/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-        <option value="JavaFXApplication" />
-        <option value="Class" />
-        <option value="FxmlFile" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="InvalidFacetManager">
-    <ignored-facets>
-      <facet id="AI1/invalid/Python" />
-    </ignored-facets>
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="21ya2HVM4YCdqVsyCVxgZHWEpGY" />
+  <component name="ProjectId" id="22jd7lE2MQDrkOq0iMQihEiSapd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -56,44 +152,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.main.ai1" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/python" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.main.ai1" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.python">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.HelloApplication (1)">
+    <configuration name="HelloApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.main.ai1.HelloApplication" />
       <module name="AI1" />
       <extension name="coverage">
@@ -106,114 +171,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="HelloApplication" type="Application" factoryName="Application">
       <module name="AI1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Ameer\AppData\Local\Programs\Python\Python39\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="All in AI1" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="AI1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python3.8" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/python/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="$PROJECT_DIR$" />
-      <method v="2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
-      <item itemvalue="Python.python" />
+      <item itemvalue="Application.HelloApplication" />
+      <item itemvalue="Application.HelloApplication (1)" />
+      <item itemvalue="JUnit.All in AI1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.python" />
+        <item itemvalue="Application.HelloApplication (1)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="586bae78-aa62-460d-9872-33299701e0eb" name="Changes" comment="" />
-      <created>1638915577353</created>
+      <changelist id="dcfcae36-9199-49c1-8c73-88cf52888ad9" name="Default Changelist" comment="" />
+      <created>1640354765115</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1638915577353</updated>
-      <workItem from="1638915583074" duration="596000" />
-      <workItem from="1638916700661" duration="577000" />
-      <workItem from="1638917976614" duration="1603000" />
-      <workItem from="1639133485826" duration="1951000" />
-      <workItem from="1639149287925" duration="3358000" />
-      <workItem from="1639152669987" duration="457000" />
-      <workItem from="1639153146731" duration="11276000" />
-      <workItem from="1639164613844" duration="4810000" />
-      <workItem from="1639219052520" duration="12075000" />
-      <workItem from="1639325106599" duration="926000" />
+      <updated>1640354765115</updated>
+      <workItem from="1640354766723" duration="199000" />
+      <workItem from="1640354981130" duration="80000" />
+      <workItem from="1640355104173" duration="46000" />
+      <workItem from="1640355316530" duration="3000" />
+      <workItem from="1640356789336" duration="94000" />
+      <workItem from="1640422965741" duration="431000" />
+      <workItem from="1640424223236" duration="139000" />
     </task>
-    <task id="LOCAL-00001" summary="updated the whole budy">
-      <created>1638916903441</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1638916903441</updated>
-    </task>
-    <task id="LOCAL-00002" summary="StudentTableView">
-      <created>1639161024344</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1639161024344</updated>
-    </task>
-    <task id="LOCAL-00003" summary="prepared json and pdf read">
-      <created>1639170610741</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1639170610741</updated>
-    </task>
-    <task id="LOCAL-00004" summary="prepared json and pdf read">
-      <created>1639170648956</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1639170648956</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Final edit Ameer 1:36 am 11/12/2021">
-      <created>1639179451239</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1639179451239</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,29 +230,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated the whole budy" />
-    <MESSAGE value="added java files" />
-    <MESSAGE value="setup python run through java" />
-    <MESSAGE value="StudentTableView" />
-    <MESSAGE value="prepared json and pdf read" />
-    <MESSAGE value="Final edit Ameer 1:36 am 11/12/2021" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final edit Ameer 1:36 am 11/12/2021" />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="strings" />
-      </configuration>
-    </watches-manager>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AI1$python.coverage" NAME="python Coverage Results" MODIFIED="1639170942445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AIProjects$main.coverage" NAME="main Coverage Results" MODIFIED="1639143855877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/main/python" />
   </component>
 </project>
