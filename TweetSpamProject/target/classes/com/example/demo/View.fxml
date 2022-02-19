@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="631.0" prefWidth="992.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo.HelloController">
+    <top>
+        <Pane prefHeight="140.0" prefWidth="1134.0" style="-fx-background-color: #0065FD;" BorderPane.alignment="CENTER">
+            <children>
+                <ImageView fitHeight="117.0" fitWidth="99.0" layoutX="14.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+                    <image>
+                        <Image url="@images/270566861_659903538699059_2987583317963076765_n.png" />
+                    </image>
+                </ImageView>
+                <Label layoutX="132.0" layoutY="40.0" text="Automatic Tweet Spam Detection" textFill="WHITE">
+                    <font>
+                        <Font name="System Bold" size="32.0" />
+                    </font>
+                </Label>
+            </children></Pane>
+    </top>
+    <center>
+        <Pane prefHeight="491.0" prefWidth="922.0" BorderPane.alignment="CENTER">
+            <children>
+                <Pane layoutX="14.0" layoutY="14.0" prefHeight="419.0" prefWidth="305.0" style="-fx-border-color: #000000;">
+                    <children>
+                        <TextField fx:id="BrowseTextField" layoutX="108.0" layoutY="14.0" prefHeight="26.0" prefWidth="184.0" promptText="please insert the path of the file" styleClass="tf2_box" stylesheets="@style.css" />
+                        <Label layoutX="10.0" layoutY="81.0" text="don't know the path? then" />
+                        <Button fx:id="Browse" layoutX="200.0" layoutY="77.0" mnemonicParsing="false" onAction="#onBrowseButtonClick" prefHeight="25.0" prefWidth="79.0" stylesheets="@buttons.css" text="Browse" />
+                        <Button layoutX="80.0" layoutY="345.0" mnemonicParsing="false" onAction="#onReadButtonClick" stylesheets="@buttons.css" text="Run the program" />
+                        <Label layoutX="13.0" layoutY="126.0" text="please choose one of the Model" />
+                        <RadioButton fx:id="Tree" layoutX="28.0" layoutY="174.0" mnemonicParsing="false" text="Decision Tree classifier">
+                            <toggleGroup>
+                                <ToggleGroup fx:id="algo" />
+                            </toggleGroup>
+                        </RadioButton>
+                        <RadioButton fx:id="Multi" layoutX="28.0" layoutY="229.0" mnemonicParsing="false" text="Multi-layer Perceptron classifier" toggleGroup="$algo" />
+                        <RadioButton fx:id="Naive" layoutX="28.0" layoutY="279.0" mnemonicParsing="false" text="Bernoulli Naive bayes" toggleGroup="$algo" />
+                        <Label layoutX="18.0" layoutY="19.0" prefHeight="17.0" prefWidth="80.0" text="Insert Path" />
+                    </children>
+                </Pane>
+                <Label layoutX="371.0" layoutY="76.0" prefHeight="17.0" prefWidth="153.0" text="Sensitivity (recall) score:" />
+                <Label layoutX="371.0" layoutY="141.0" prefHeight="17.0" prefWidth="153.0" text="precision score:" />
+                <Label layoutX="371.0" layoutY="207.0" prefHeight="17.0" prefWidth="153.0" text="f1 score :" />
+                <Label layoutX="371.0" layoutY="267.0" prefHeight="17.0" prefWidth="153.0" text="accuracy score  :" />
+                <Label layoutX="371.0" layoutY="327.0" prefHeight="17.0" prefWidth="153.0" text="ROC AUC :" />
+                <TextField layoutX="549.0" layoutY="72.0" styleClass="tf2_box" stylesheets="@style.css" fx:id="Sensitivity"/>
+                <TextField layoutX="549.0" layoutY="137.0" styleClass="tf2_box" stylesheets="@style.css" fx:id="precision"/>
+                <TextField layoutX="549.0" layoutY="203.0" styleClass="tf2_box" stylesheets="@style.css" fx:id="f1"/>
+                <TextField layoutX="549.0" layoutY="263.0" styleClass="tf2_box" stylesheets="@style.css" fx:id="accuracy"/>
+                <TextField layoutX="549.0" layoutY="323.0" styleClass="tf2_box" stylesheets="@style.css" fx:id="ROC"/>
+            </children>
+        </Pane>
+    </center>
+</BorderPane>
